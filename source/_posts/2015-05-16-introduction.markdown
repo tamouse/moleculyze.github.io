@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introdcution
+title: Introduction
 ---
 Moleculyze Game started at [HackTheGap.MN](https://hackthegap.mn) on
 2015-05-16.
