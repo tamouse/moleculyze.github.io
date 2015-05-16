@@ -1,0 +1,19 @@
+title: "Moleculyze"
+email: tamouse@gmail.com
+description: >
+  HackTheGap project
+baseurl: ''
+url: "https://moleculyze.github.io"
+
+# Build settings
+source: source
+destination: public
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM # Githup Flavoured Markdown
+  hard_wrap: false
+
+highlighter: pygments
+lsi: false
